@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "debug_reset_user6",
+      "password": "$pbkdf2-sha256$29000$lfKecw6B0BqjlDLmXMvZWw$RECF0FFdDqgvVpWh.KI8tBXJk6esarfOC.qmWjnvWSY",
+      "role": "user"
+    },
+    {
+      "username": "honey",
+      "password": "$pbkdf2-sha256$29000$gtAa4/wfo1SKEYIQYozR2g$Pde4IWpKHS1e9Y6geA.ixT.ISKOs268cnztSEAeabSs",
+      "role": "admin"
+    },
+    {
+      "username": "sumit",
+      "password": "$pbkdf2-sha256$29000$cs5ZKyUEQGiNsTYmpDSmlA$AwXx2Y23zX8h4gH15TOJrJa6ZfFSF1rfD23WLeg6TIw",
+      "role": "user"
+    }
+  ]
+}
